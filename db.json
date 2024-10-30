@@ -1,97 +1,148 @@
 {
-    "Cars": [
-        {
-            "id": 1,
-            "make": "Toyota",
-            "model": "Supra",
-            "year": "1994",
-            "price": "50000",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZxeFwvgOU-W4T8cCJDbGLYzs8mcwCDA6DfA&s",
-            "seller": "Austin"
-        },
-        {
-            "id": 2,
-            "make": "Nissan",
-            "model": "R34 Skyline",
-            "year": "1990",
-            "price": "100000",
-            "image": "https://pitpad.com/2023/07/31/800hp-nissan-gt-r-widebody-is-the-nations-wildest-r32-skyline-build/23_ppk_feature_brad_nielson_gtr-1/",
-            "seller": "Ross"
-        },
-        {
-            "id": 3,
-            "make": "Mazda",
-            "model": "Rx7",
-            "year": "1993",
-            "price": "70000",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyUax3tZKogQwUkNqelXpW4ThIRkSAyXcR6Q&s",
-            "seller": "Pablo"
-        },
-        {
-            "id": 4,
-            "make": "Honda",
-            "model": "Nsx",
-            "year": "1990",
-            "price": "80000",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuQxA5pB6IPu5iLMrABoqptQgXL-dmBQKO3g&s",
-            "seller": "Amy"
-        },
-        {
-            "id": 5,
-            "make": "BMW",
-            "model": "E60 M3",
-            "year": "1990",
-            "price": "65000",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_6w4ULD___TpZyPIaCEtOD0DErxwtgQ47gw&s",
-            "seller": "Jake"
-        },
-        {
-            "id": 6,
-            "make": "Maserati",
-            "model": "quattroporte gts",
-            "year": "2014",
-            "price": "160000",
-            "image": "https://i.ytimg.com/vi/GP4WHfVeeXQ/maxresdefault.jpg",
-            "seller": "Ali"
-        },
-        {
-            "id": 7,
-            "make": "Honda",
-            "model": "Civic",
-            "year": "2005",
-            "price": "5000",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9_rzKJlnNhsR_0K7IwnY8PKMIsfbcHAdSXQ&s",
-            "seller": "Rosa"
-        }, 
-        {
-            "id": 8,
-            "make": "Nissan",
-            "model": "altima",
-            "year": "2016",
-            "price": "8000",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9_rzKJlnNhsR_0K7IwnY8PKMIsfbcHAdSXQ&s",
-            "seller": "Rehab"
-        },
-        {
-            "id": 9,
-            "make": "Audi",
-            "model": "A8",
-            "year": "2008",
-            "price": "7000",
-            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.carfax.com%2FResearch-2008-Audi-A8_z1938&psig=AOvVaw2-MIIGESyFN8f3rAchPk0L&ust=1730142743272000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICuuqKir4kDFQAAAAAdAAAAABAE",
-            "seller": "Paul"
-        }, 
-        {
-            "id": 10,
-            "make": "Lincoln",
-            "model": "MKZ",
-            "year": "2018",
-            "price": "15000",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBcaAZgsQ_5EEtlZGVBwqOIC_YscQAvmc7QA&s",
-            "seller": "Brennon"
-        }
-        
-        
-     
-    ]
-  }
+  "Cars": [
+    {
+      "id": "1",
+      "make": "Toyota",
+      "model": "Tundra",
+      "year": 2020,
+      "price": 35000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSulK1gBb39h3Txx6PS5l9cmXVP6eJueErmCQ&s",
+      "seller": "Paul"
+    },
+    {
+      "id": "2",
+      "make": "Ford",
+      "model": "Explorer",
+      "year": 2014,
+      "price": 8500,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqkHT4hzmLv2NOty0dqU-wBdIW5NwW4urq1w&s",
+      "seller": "Ross"
+    },
+    {
+      "id": "3",
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "year": 2015,
+      "price": 11000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNTv4T7EJ6BtY1PTg9pg_Wpdnc-6pLedA5gA&s",
+      "seller": "Ali"
+    },
+    {
+      "id": "4",
+      "make": "Chrysler",
+      "model": "300",
+      "year": 2008,
+      "price": 4400,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZmBmERoCuMfSvIQHQwd47mG3k8ahy07wZhQ&s",
+      "seller": "Amy"
+    },
+    {
+      "id": "5",
+      "make": "BMW",
+      "model": "X5",
+      "year": 2012,
+      "price": 6500,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgXeFV-VRtfRijc1hLhn4-8LoN97mFRrdrvw&s",
+      "seller": "Jake"
+    },
+    {
+      "id": "6",
+      "make": "Maserati",
+      "model": "Quattroporte gts",
+      "year": 2014,
+      "price": 24000,
+      "image": "https://mail.google.com/mail/u/0?ui=2&ik=c9e734f45f&attid=0.1&permmsgid=msg-a:r-509990652438767174&th=192da368e48767c6&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ_HhUnhcjePiNyV6rZUfcAgnuOZZPyzbpmGVNB5fN4xsHPUk1jS11CrTxaUoo3aRr2vGZbM3HR-lEGdTL0JGe8T7enWnrL5zUW5DkP4gUaT2UZ1LVmdmE6JcYs&disp=emb&realattid=D9CFCDE9-32B2-42B2-8A88-EDC321128C9A",
+      "seller": "Pablo"
+    },
+    {
+      "id": "7",
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2005,
+      "price": 5000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9_rzKJlnNhsR_0K7IwnY8PKMIsfbcHAdSXQ&s",
+      "seller": "Rosa"
+    },
+    {
+      "id": "8",
+      "make": "Nissan",
+      "model": "Altima",
+      "year": 2016,
+      "price": 8000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQavXhL1Z5O6Cf87SheCBsCGqlFS35lKSA3gg&s",
+      "seller": "Rehab"
+    },
+    {
+      "id": "9",
+      "make": "Audi",
+      "model": "A8",
+      "year": 2008,
+      "price": 7000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr7dCvX_Krs46igFwf-hpnG3ZRg6h8dkEHg&s",
+      "seller": "Mitch"
+    },
+    {
+      "id": "10",
+      "make": "Lincoln",
+      "model": "MKZ",
+      "year": 2018,
+      "price": 15000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBcaAZgsQ_5EEtlZGVBwqOIC_YscQAvmc7QA&s",
+      "seller": "Brennen"
+    },
+    {
+      "id": "76b2",
+      "make": "Jeep",
+      "model": "Patriot",
+      "year": 2016,
+      "price": 15000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKa7Xn7puG2_ATMYqh3zvDIEQFpkO2wYZdtw&s",
+      "seller": "Billy"
+    },
+    {
+      "id": "bc18",
+      "make": "Honda",
+      "model": "Accord",
+      "year": 2021,
+      "price": 17400,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS4tz_d2f_DC6lj82aiwJ1f0iss_PuwaAdkQ&s",
+      "seller": "Janie"
+    },
+    {
+      "id": "bc47",
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2007,
+      "price": 4000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn0uTvfKTergvg0QNdjatmQlZLY2s1xofCWw&s",
+      "seller": "Josh"
+    },
+    {
+      "id": "f945",
+      "make": "Chrysler",
+      "model": "200 s",
+      "year": 2015,
+      "price": 11000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0f_58MvrBjnKBzT53-ai12uQl2TKnwmE6Ig&s",
+      "seller": "Liz"
+    },
+    {
+      "id": "121c",
+      "make": "Jeep",
+      "model": "Wrangler",
+      "year": 2004,
+      "price": 4550,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTte8KlCBOjlXbbpKVt26l-VP77oURUC0NrjA&s",
+      "seller": "Bruce weems"
+    },
+    {
+      "id": "e6eb",
+      "make": "Dodge",
+      "model": "Charger rt",
+      "year": 2012,
+      "price": 7000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrRHMsAzKmMt2iVQ1PX8OGkX57tbBNgpc1Hg&s",
+      "seller": "Brian"
+    }
+  ]
+}
